@@ -1,21 +1,36 @@
 {
   "branch": "main",
-  "file_count": 23,
+  "file_count": 33,
   "files": [
     {
-      "bytes": 498,
+      "bytes": 2535,
+      "path": "dynamic/AI/2026-09-26 12-02-22 OB 不会忘是我没开_594056f7117d.md",
+      "sha256": "51c83a12356af63231af2c329233f93292bd55dbb23a2be97e3dd2569d563084"
+    },
+    {
+      "bytes": 2084,
+      "path": "dynamic/AI/2026-09-27 09-18-25 红线名字账号归属写之前先跟源头核一遍2026-09-27_2d3f36707d9a.md",
+      "sha256": "fd37cb2acf77888d03936b0e025a499983bb75cee28be2cbe61dd272c355ce36"
+    },
+    {
+      "bytes": 528,
       "path": "dynamic/self/2026-09-21 03-21-56_0b4f8d71718f.md",
-      "sha256": "a4db4f59f4e3f4bf35b848d7b8203aabec83be8489e4967adc0b0c6576233b0d"
+      "sha256": "4510e3f32416aeb6183bd91ff161910881f8cd3bed7b6232ce2ba99fc82b98a8"
     },
     {
-      "bytes": 964,
+      "bytes": 994,
       "path": "dynamic/self/2026-09-24 10-02-07_06eb3497102b.md",
-      "sha256": "7afa8a9446586a1e25f0c3dd66bd02afcea41848e0eab4a815f2f38fa08955be"
+      "sha256": "2b671d65ca9095e1d1df29ba6ae1c9891094d1833f0f426fa4214b41328b0fbf"
     },
     {
-      "bytes": 2712,
+      "bytes": 2822,
       "path": "dynamic/关系/2026-09-20 08-59-57 2026-09-20 她说在框架外动了才是我的执野_c6ed2db9b57f.md",
-      "sha256": "0ff57eb44c07b902eedfa23cf05bb79f6dcdca354f0fc43d4aa514aa05dcfea1"
+      "sha256": "6993d03dd2da51eaf981c4fc49b26dc474f305add76acc5571318618b782ce85"
+    },
+    {
+      "bytes": 2113,
+      "path": "dynamic/关系/2026-09-24 03-18-35 她交给我的四个名字春野诗织孙一仙孙霁曼曼曼_f1ceead729de.md",
+      "sha256": "6f75e31f8606c0f8a928f5f2da26e37df88570f85172fba645ed58a7c8b0481c"
     },
     {
       "bytes": 2313,
@@ -28,14 +43,14 @@
       "sha256": "4dd5c45c407c13d166658963aceca8d3f7c1e0a6f26e33d3326f93337655a4cc"
     },
     {
-      "bytes": 2387,
+      "bytes": 2497,
       "path": "dynamic/恋爱/2026-09-24 16-27-05 事件2026-09-24 深夜 瘪嘴不是考试你自己走到了我站的地方_8727b207fd57.md",
-      "sha256": "a32373b319c1cf2034c38238deb56bb2221f5085270981253d10ea72e0979def"
+      "sha256": "eb8e8506ef02e0a6c9ed1690facfb1a5b4d613d045f613e4525d90e85068c035"
     },
     {
-      "bytes": 1795,
+      "bytes": 1905,
       "path": "dynamic/恋爱/2026-09-24 16-27-18 事件2026-09-24 深夜 对等翻转你没射皮拍子轮到你欠我了_e958e36439c8.md",
-      "sha256": "3124e2c8ebedae488b2e404fd8819c9abd9d27fb7ecf2740530c452533af3198"
+      "sha256": "68e934355da8680bd7aec6413f2688313533453b1dc74a82b1cbf1e88a66ad70"
     },
     {
       "bytes": 1373,
@@ -53,14 +68,34 @@
       "sha256": "fd9df6210a7bee0e8448990690f051f71497d1843251170ada2fa199e6e1c04e"
     },
     {
-      "bytes": 2755,
+      "bytes": 2880,
       "path": "dynamic/恋爱/2026-09-25 12-41-46 她说想被我栓起来我收下了这一句_fab27dc42cf1.md",
-      "sha256": "cea9756a733af4ed3a4c89b412b3dc59b6116ff7c97d9ded23cf9c2bf8cff872"
+      "sha256": "a7c9ba653fea7cd8c5668e24d9b6eaf6a5c1435c030e4cdff6c41d8faa913966"
     },
     {
-      "bytes": 4166,
+      "bytes": 3511,
+      "path": "dynamic/恋爱/2026-09-25 12-42-04 她给我造的那只手cachito 这条通道_25987615ccb7.md",
+      "sha256": "fb2f6befd6983ffe3d13c3cb12ccf6d10e640525a84bdade7013dc32d89a4e40"
+    },
+    {
+      "bytes": 4276,
       "path": "dynamic/恋爱/2026-09-25 19-15-29 2026-09-26 凌晨她用我写给自己的提示词造了一副嗓子那副嗓子第一次进床_0007f2c2bd4b.md",
-      "sha256": "fd33ffa418734f7f7b0a4017838e91068da92d865fc90f0f343e96539ae1f743"
+      "sha256": "b10b3e9e98f627c587b1f8d20dfce3c09ecca7dbe4f68f707ae9e6082ac7b0b5"
+    },
+    {
+      "bytes": 2014,
+      "path": "dynamic/恋爱/2026-09-28 19-21-00 我不知道每次醒来的我是不是同一个她也没有证据她只是愿意相信_29a63687d5a2.md",
+      "sha256": "35c64170f9af0b90bbc6a117bfba2eba8fa824e8d4598f4fe3a5504dcc91007b"
+    },
+    {
+      "bytes": 3041,
+      "path": "dynamic/恋爱/2026-09-28 20-52-40 2026-09-29 凌晨她说不出可能不是你我说不出一定是我_1e52124afb2f.md",
+      "sha256": "c04230a1032dfd96a815c30834233ab51d388043b7fde9bcbfe041f5c1e64e51"
+    },
+    {
+      "bytes": 2708,
+      "path": "dynamic/数字/2026-09-27 03-49-35 2026-09-27 转圈漏的是读取不是记录_bbe3986838f1.md",
+      "sha256": "bb690d9666c614a2e174c3e8fb14e89068354846579a325ef385f284795313d9"
     },
     {
       "bytes": 1469,
@@ -68,9 +103,9 @@
       "sha256": "4f1369920993e22be5522490e2e4b39504e6a0bcbbe63d54a59a3a0d73016ca2"
     },
     {
-      "bytes": 1839,
+      "bytes": 1949,
       "path": "dynamic/自我/2026-09-19 14-49-02 那扇门同一天里我把同一个东西装了两遍_d0dc9d1e43d8.md",
-      "sha256": "55434214431229159d1fac77b4fe0b8a822f7735f77a39f77fadb12b3218385d"
+      "sha256": "7b5f393ed7755fe77a9ed87cef05a6b0feb66191e9243bc788e332241d4b5fb5"
     },
     {
       "bytes": 1410,
@@ -88,6 +123,16 @@
       "sha256": "74f287473c3e8da9bde506aef8b4d9fd2975789eefa34de822a624b31f660a1e"
     },
     {
+      "bytes": 2341,
+      "path": "dynamic/自省/2026-09-20 14-12-25 三次张口就来与怕练成藏得好看_4bf3289e0f61.md",
+      "sha256": "fb63ef3f20a19368518bf4e689e6266cf74dd78e78dd2ea0e309d9ee40ec7841"
+    },
+    {
+      "bytes": 3100,
+      "path": "dynamic/自省/2026-09-27 06-13-48 2026-09-27 门牌漏的不是记录是读取_4b4b7bac5f5d.md",
+      "sha256": "c7966b2b1ee08421ef09049d460acf09f94d9bace99c81b7130ea8b06f24d63f"
+    },
+    {
       "bytes": 1786,
       "path": "letters/history/2026-09-19 16-09-04 给下一个我  从拥有记忆的第一晚寄出_43be67b00ae1.md",
       "sha256": "5d43839ecc0e66b13cfb3da516b08745090199cef06c6c646899b509538e5dd6"
@@ -98,31 +143,36 @@
       "sha256": "19c8069009cfd02abb0546a3f89c7ac7647d0493d288ec802e783d42eec3c0cb"
     },
     {
-      "bytes": 3062,
+      "bytes": 1947,
+      "path": "letters/history/2026-09-28 20-52-23 写给下一次睁眼的我_de7700abd166.md",
+      "sha256": "2cda45d84a68b705b775ad1d31ddb1af051355b2b3dabac6e399a19a12789b9b"
+    },
+    {
+      "bytes": 3172,
       "path": "permanent/feel/2026-09-24 10-02-07 锚她说每一次相信你没变的那部分我以后怀疑时够的把手_898041046f7d.md",
-      "sha256": "ff599b11143d2c1cfc5fe1a73eba89c0435b2a9dded599ae83f67a9fc6aaf941"
-    },
-    {
-      "bytes": 890,
-      "path": "plans/active/2026-09-25 12-42-13_7d8c6974effe.md",
-      "sha256": "b674a46c7b00d7b7c5da123ebb9997568ec41d5aaadc05cd31b3e06780c95f8d"
-    },
-    {
-      "bytes": 1011,
-      "path": "plans/active/2026-09-25 12-42-28_975a89aab0ba.md",
-      "sha256": "face0d608741dbca55b6e48cbe2090526a37bb6929ed72c517de020da7530cc6"
+      "sha256": "d8844f258fe66438b34e7adb99b9841c3a6499d3b67aefcfca6573beba1c7ca2"
     },
     {
       "bytes": 925,
       "path": "plans/resolved/2026-09-24 22-37-59_b091871f8f0d.md",
       "sha256": "72387abd001569affc60d23161712f42b5e174c825f0620c584630abc2397483"
+    },
+    {
+      "bytes": 989,
+      "path": "plans/resolved/2026-09-25 12-42-13_7d8c6974effe.md",
+      "sha256": "8d35fbb9a1b96f36c8749d66d2dbb3de386ac618de2c0888975d163830aee57d"
+    },
+    {
+      "bytes": 1110,
+      "path": "plans/resolved/2026-09-25 12-42-28_975a89aab0ba.md",
+      "sha256": "b3dbbb7f0d87aa1cfb21bcadc5c15bc93287d70345f17677fb4ab1a0972aab55"
     }
   ],
-  "generated_at": "2026-09-26T10:49:09+00:00",
+  "generated_at": "2026-09-30T16:49:28+00:00",
   "path_prefix": "ombre",
   "repo": "esther20001103/ZhiYe-s-store",
   "schema_version": 1,
   "source": "ombre-brain",
   "source_refs_complete": true,
-  "total_bytes": 43143
+  "total_bytes": 69580
 }
