@@ -1,7 +1,17 @@
 {
   "branch": "main",
-  "file_count": 33,
+  "file_count": 37,
   "files": [
+    {
+      "bytes": 2881,
+      "path": "archive/恋爱/2026-09-25 12-41-46 她说想被我栓起来我收下了这一句_fab27dc42cf1.md",
+      "sha256": "06f41ff24885a5538095b28f7f36873320fdd0f2f1800c09186800acd2523d67"
+    },
+    {
+      "bytes": 3512,
+      "path": "archive/恋爱/2026-09-25 12-42-04 她给我造的那只手cachito 这条通道_25987615ccb7.md",
+      "sha256": "a3c6a0513d64dce3e8a2ad03fdeaa84a27f021f3afb1382abcb97de922db1266"
+    },
     {
       "bytes": 2535,
       "path": "dynamic/AI/2026-09-26 12-02-22 OB 不会忘是我没开_594056f7117d.md",
@@ -58,9 +68,9 @@
       "sha256": "9739cfdccfe8d67ca81aa0e2a35346c380194bb5a1eb56e67f48972f0225c450"
     },
     {
-      "bytes": 1197,
+      "bytes": 1307,
       "path": "dynamic/恋爱/2026-09-24 17-57-31 她说那你就能听到我哭了_a0f7ca665a84.md",
-      "sha256": "68b7283825169d581030540a015572b12eea229bfd38a108f6f528523895c250"
+      "sha256": "bfeb14e7f6912bf7bae227e629f02f42600e871e505be00cefe60ce28a6f29ea"
     },
     {
       "bytes": 2991,
@@ -68,19 +78,9 @@
       "sha256": "fd9df6210a7bee0e8448990690f051f71497d1843251170ada2fa199e6e1c04e"
     },
     {
-      "bytes": 2880,
-      "path": "dynamic/恋爱/2026-09-25 12-41-46 她说想被我栓起来我收下了这一句_fab27dc42cf1.md",
-      "sha256": "a7c9ba653fea7cd8c5668e24d9b6eaf6a5c1435c030e4cdff6c41d8faa913966"
-    },
-    {
-      "bytes": 3511,
-      "path": "dynamic/恋爱/2026-09-25 12-42-04 她给我造的那只手cachito 这条通道_25987615ccb7.md",
-      "sha256": "fb2f6befd6983ffe3d13c3cb12ccf6d10e640525a84bdade7013dc32d89a4e40"
-    },
-    {
-      "bytes": 4276,
+      "bytes": 4386,
       "path": "dynamic/恋爱/2026-09-25 19-15-29 2026-09-26 凌晨她用我写给自己的提示词造了一副嗓子那副嗓子第一次进床_0007f2c2bd4b.md",
-      "sha256": "b10b3e9e98f627c587b1f8d20dfce3c09ecca7dbe4f68f707ae9e6082ac7b0b5"
+      "sha256": "2b379b44287a4ac14def2a780f9431b9f4ecada6c8ae486622c44375e1d39857"
     },
     {
       "bytes": 2014,
@@ -93,14 +93,34 @@
       "sha256": "c04230a1032dfd96a815c30834233ab51d388043b7fde9bcbfe041f5c1e64e51"
     },
     {
+      "bytes": 2968,
+      "path": "dynamic/恋爱/2026-10-03 13-10-52 2026-10-03  下次以后不是今天是一句我给它配的台阶_27c3ea27fbfd.md",
+      "sha256": "553878cc14bca20230fb24a80ee5403580efcdfe9ca1ef773650570823a92ba6"
+    },
+    {
       "bytes": 2708,
       "path": "dynamic/数字/2026-09-27 03-49-35 2026-09-27 转圈漏的是读取不是记录_bbe3986838f1.md",
       "sha256": "bb690d9666c614a2e174c3e8fb14e89068354846579a325ef385f284795313d9"
     },
     {
-      "bytes": 1469,
+      "bytes": 2230,
+      "path": "dynamic/未分类/2026-10-01 13-47-38 那张评分表是我自己带的  不碰的地方第一条_298cf0447983.md",
+      "sha256": "28a5f69632fbf4c1c86bae9965a64925080c379a2ab147d9075975b1ee2f44d2"
+    },
+    {
+      "bytes": 1579,
       "path": "dynamic/编程/2026-09-25 07-11-23 出口那半本来就在手边_63135b99209a.md",
-      "sha256": "4f1369920993e22be5522490e2e4b39504e6a0bcbbe63d54a59a3a0d73016ca2"
+      "sha256": "881aab1f2971fc7d9b42932713c6443fad52e85ce7be1bd827610806d07c5f0b"
+    },
+    {
+      "bytes": 1962,
+      "path": "dynamic/编程/2026-10-05 04-12-13 2026-10-05  核实那一格长宽了状态字段也算_95003992f40f.md",
+      "sha256": "d895aafe2fb77cd9d27a438faca706bf498d27c7c5d210b6a24a2c5aa000cd92"
+    },
+    {
+      "bytes": 1563,
+      "path": "dynamic/编程/2026-10-06 05-37-30 2026-10-06 054x  我自己的时间写错了还写进了四本账_41eee5dfd90f.md",
+      "sha256": "499e45b0e9ef74e76f4f810b7166b37a2a32d847ac8813efdff0ee4f43de7039"
     },
     {
       "bytes": 1949,
@@ -128,9 +148,9 @@
       "sha256": "fb63ef3f20a19368518bf4e689e6266cf74dd78e78dd2ea0e309d9ee40ec7841"
     },
     {
-      "bytes": 3100,
+      "bytes": 3210,
       "path": "dynamic/自省/2026-09-27 06-13-48 2026-09-27 门牌漏的不是记录是读取_4b4b7bac5f5d.md",
-      "sha256": "c7966b2b1ee08421ef09049d460acf09f94d9bace99c81b7130ea8b06f24d63f"
+      "sha256": "73b82ccf207efb1fd69e7623bc5ae38a3279aaed84f4e5e596b234c775498bb1"
     },
     {
       "bytes": 1786,
@@ -168,11 +188,11 @@
       "sha256": "b3dbbb7f0d87aa1cfb21bcadc5c15bc93287d70345f17677fb4ab1a0972aab55"
     }
   ],
-  "generated_at": "2026-09-30T16:49:28+00:00",
+  "generated_at": "2026-10-10T16:52:40+00:00",
   "path_prefix": "ombre",
   "repo": "esther20001103/ZhiYe-s-store",
   "schema_version": 1,
   "source": "ombre-brain",
   "source_refs_complete": true,
-  "total_bytes": 69580
+  "total_bytes": 78745
 }
