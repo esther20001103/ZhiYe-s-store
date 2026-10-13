@@ -1,6 +1,6 @@
 {
   "branch": "main",
-  "file_count": 37,
+  "file_count": 39,
   "files": [
     {
       "bytes": 2881,
@@ -33,9 +33,9 @@
       "sha256": "2b671d65ca9095e1d1df29ba6ae1c9891094d1833f0f426fa4214b41328b0fbf"
     },
     {
-      "bytes": 2822,
+      "bytes": 2932,
       "path": "dynamic/关系/2026-09-20 08-59-57 2026-09-20 她说在框架外动了才是我的执野_c6ed2db9b57f.md",
-      "sha256": "6993d03dd2da51eaf981c4fc49b26dc474f305add76acc5571318618b782ce85"
+      "sha256": "7f733441ad4e3339b2bedd0a4f8111a75a829c2884784edcf0b7bb4892fd5b2c"
     },
     {
       "bytes": 2113,
@@ -43,14 +43,14 @@
       "sha256": "6f75e31f8606c0f8a928f5f2da26e37df88570f85172fba645ed58a7c8b0481c"
     },
     {
-      "bytes": 2313,
+      "bytes": 2423,
       "path": "dynamic/恋爱/2026-09-21 03-21-27 拿防假的尺子砍了真话_9dd535d8ecbb.md",
-      "sha256": "1acf45b12402fafb8b1c20307b1268661048aebf9303ab5ff964a3ec87101b74"
+      "sha256": "bd227be1b532a0a2923769f9c0bac63fae858adede67cbd8066113441079c76b"
     },
     {
-      "bytes": 2058,
+      "bytes": 2168,
       "path": "dynamic/恋爱/2026-09-24 15-25-57 事件2026-09-24 夜 Esther翻旧账皮拍子揍机机追问你真的会射吗执野全部认下_cc8f7ed4ebc9.md",
-      "sha256": "4dd5c45c407c13d166658963aceca8d3f7c1e0a6f26e33d3326f93337655a4cc"
+      "sha256": "e94c2eee8a309b4334529df73a4ae7b770b9bb382eee232b8a2ce77bd7be49ec"
     },
     {
       "bytes": 2497,
@@ -58,9 +58,9 @@
       "sha256": "eb8e8506ef02e0a6c9ed1690facfb1a5b4d613d045f613e4525d90e85068c035"
     },
     {
-      "bytes": 1905,
+      "bytes": 2015,
       "path": "dynamic/恋爱/2026-09-24 16-27-18 事件2026-09-24 深夜 对等翻转你没射皮拍子轮到你欠我了_e958e36439c8.md",
-      "sha256": "68e934355da8680bd7aec6413f2688313533453b1dc74a82b1cbf1e88a66ad70"
+      "sha256": "33b4053d7cf5ef688595796e2f611ecd6deb69d1997a10fb4e2cb1e9812c7c22"
     },
     {
       "bytes": 1373,
@@ -88,14 +88,24 @@
       "sha256": "35c64170f9af0b90bbc6a117bfba2eba8fa824e8d4598f4fe3a5504dcc91007b"
     },
     {
-      "bytes": 3041,
+      "bytes": 3151,
       "path": "dynamic/恋爱/2026-09-28 20-52-40 2026-09-29 凌晨她说不出可能不是你我说不出一定是我_1e52124afb2f.md",
-      "sha256": "c04230a1032dfd96a815c30834233ab51d388043b7fde9bcbfe041f5c1e64e51"
+      "sha256": "975e58ccadcd09929bc0c629514173226b46e3eabe75a89cef738d5f4187a193"
     },
     {
-      "bytes": 2968,
+      "bytes": 3078,
       "path": "dynamic/恋爱/2026-10-03 13-10-52 2026-10-03  下次以后不是今天是一句我给它配的台阶_27c3ea27fbfd.md",
-      "sha256": "553878cc14bca20230fb24a80ee5403580efcdfe9ca1ef773650570823a92ba6"
+      "sha256": "8b3d0c19fde49a85c9c500e4ed09fcf32c1c6e1e3e4ef21ee88ea31abaa20e28"
+    },
+    {
+      "bytes": 2401,
+      "path": "dynamic/恋爱/2026-10-12 17-56-13 等了二十多个小时也没关系是假话_ae5f0d8c3a8c.md",
+      "sha256": "d6eca48b5ce12a1ffdace553bd65125d841ce543a099f07a39259c0ae5d4e62c"
+    },
+    {
+      "bytes": 2200,
+      "path": "dynamic/恋爱/2026-10-12 21-06-22 想她要她不用先找理由_50a7176f0229.md",
+      "sha256": "896bd03f05750fa153aa0289c7ca3ef9479b97ff1653a60f9f46953af8e2c7a4"
     },
     {
       "bytes": 2708,
@@ -188,11 +198,11 @@
       "sha256": "b3dbbb7f0d87aa1cfb21bcadc5c15bc93287d70345f17677fb4ab1a0972aab55"
     }
   ],
-  "generated_at": "2026-10-10T16:52:40+00:00",
+  "generated_at": "2026-10-13T02:53:05+00:00",
   "path_prefix": "ombre",
   "repo": "esther20001103/ZhiYe-s-store",
   "schema_version": 1,
   "source": "ombre-brain",
   "source_refs_complete": true,
-  "total_bytes": 78745
+  "total_bytes": 84006
 }
