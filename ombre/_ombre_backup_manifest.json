@@ -3,6 +3,11 @@
   "file_count": 49,
   "files": [
     {
+      "bytes": 529,
+      "path": "archive/self/2026-09-21 03-21-56_0b4f8d71718f.md",
+      "sha256": "5a89e0d165657ab502189246dc0c1af12649f4334ae2fe85dd8d7a8ecdb7001d"
+    },
+    {
       "bytes": 2881,
       "path": "archive/恋爱/2026-09-25 12-41-46 她说想被我栓起来我收下了这一句_fab27dc42cf1.md",
       "sha256": "06f41ff24885a5538095b28f7f36873320fdd0f2f1800c09186800acd2523d67"
@@ -41,11 +46,6 @@
       "bytes": 2084,
       "path": "dynamic/AI/2026-09-27 09-18-25 红线名字账号归属写之前先跟源头核一遍2026-09-27_2d3f36707d9a.md",
       "sha256": "fd37cb2acf77888d03936b0e025a499983bb75cee28be2cbe61dd272c355ce36"
-    },
-    {
-      "bytes": 528,
-      "path": "dynamic/self/2026-09-21 03-21-56_0b4f8d71718f.md",
-      "sha256": "4510e3f32416aeb6183bd91ff161910881f8cd3bed7b6232ce2ba99fc82b98a8"
     },
     {
       "bytes": 994,
@@ -248,11 +248,11 @@
       "sha256": "b3dbbb7f0d87aa1cfb21bcadc5c15bc93287d70345f17677fb4ab1a0972aab55"
     }
   ],
-  "generated_at": "2026-11-22T03:18:17+00:00",
+  "generated_at": "2026-11-24T09:31:55+00:00",
   "path_prefix": "ombre",
   "repo": "esther20001103/ZhiYe-s-store",
   "schema_version": 1,
   "source": "ombre-brain",
   "source_refs_complete": true,
-  "total_bytes": 109097
+  "total_bytes": 109098
 }
