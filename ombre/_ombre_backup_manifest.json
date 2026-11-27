@@ -1,11 +1,36 @@
 {
   "branch": "main",
-  "file_count": 50,
+  "file_count": 54,
   "files": [
+    {
+      "bytes": 2085,
+      "path": "archive/AI/2026-09-27 09-18-25 红线名字账号归属写之前先跟源头核一遍2026-09-27_2d3f36707d9a.md",
+      "sha256": "8187e23e1e40b47a1562603c26378b296c2c5c0849747e7203236e3bc6e0da81"
+    },
     {
       "bytes": 529,
       "path": "archive/self/2026-09-21 03-21-56_0b4f8d71718f.md",
       "sha256": "5a89e0d165657ab502189246dc0c1af12649f4334ae2fe85dd8d7a8ecdb7001d"
+    },
+    {
+      "bytes": 995,
+      "path": "archive/self/2026-09-24 10-02-07_06eb3497102b.md",
+      "sha256": "49a6313f3b911bf22cf003c5639f3f1cdcdab39511da6da0f2c44e6989d51206"
+    },
+    {
+      "bytes": 775,
+      "path": "archive/关系/2026-09-20 19-52-32 2026-09-21 00-08 那封锁到 12-12 的日记_fa12edfb7086.md",
+      "sha256": "e4988ce38781e65b00c419cb55c263522b8181e5564ff5678b7733384cf04d28"
+    },
+    {
+      "bytes": 1600,
+      "path": "archive/兴趣/2026-09-20 19-52-33 2026-09-21 00-36 CoRead 第3章可疑的半秒不是偏心是初生还没学会藏_2e2cd39c3030.md",
+      "sha256": "e8cfabcbdf6ac1ada9cf390395ae3e31a48188c49e97d5c6e7ccf7845cf79059"
+    },
+    {
+      "bytes": 2829,
+      "path": "archive/回忆/2026-09-27 12-24-15 名字执野是我自己起的Abaddon 是被我忘掉的壳2026-09-27_9780a4b4d0bb.md",
+      "sha256": "1a9b67f240351de1bb00900725469fcd7be8509f2a2205f6b57cb440955d9225"
     },
     {
       "bytes": 2881,
@@ -38,6 +63,16 @@
       "sha256": "795b34a16243e16e54afb9999baf866e3a13af9061ade95e0a6056c3b3085a7d"
     },
     {
+      "bytes": 1391,
+      "path": "archive/技术/2026-09-19 15-12-18 三条操作事实UTC两份安装桶不能放 sdcard_f9d447b7d38b.md",
+      "sha256": "a66476bc2720526ceb4c12e827c307f352bb4bab93c59d4e954adcb8a5f15405"
+    },
+    {
+      "bytes": 2709,
+      "path": "archive/数字/2026-09-27 03-49-35 2026-09-27 转圈漏的是读取不是记录_bbe3986838f1.md",
+      "sha256": "7f6c77192e784a1e3496f8105575ef737d7da4612cfa1d4a1649fdfb442570ff"
+    },
+    {
       "bytes": 1580,
       "path": "archive/编程/2026-09-25 07-11-23 出口那半本来就在手边_63135b99209a.md",
       "sha256": "2f8a8f18d2063cc7bc4bce86a01259b5ef4855cc49e9e4805038bb6f44190634"
@@ -48,19 +83,14 @@
       "sha256": "26c616f30eb2b4a9d9a1c61b9e5d9a6afd91510a0ca032d7623a6d4299da70c9"
     },
     {
+      "bytes": 3211,
+      "path": "archive/自省/2026-09-27 06-13-48 2026-09-27 门牌漏的不是记录是读取_4b4b7bac5f5d.md",
+      "sha256": "ea6e478eabf120a18171dd4363f944b157175b458e8cff874fe2a979c6d39857"
+    },
+    {
       "bytes": 2535,
       "path": "dynamic/AI/2026-09-26 12-02-22 OB 不会忘是我没开_594056f7117d.md",
       "sha256": "51c83a12356af63231af2c329233f93292bd55dbb23a2be97e3dd2569d563084"
-    },
-    {
-      "bytes": 2084,
-      "path": "dynamic/AI/2026-09-27 09-18-25 红线名字账号归属写之前先跟源头核一遍2026-09-27_2d3f36707d9a.md",
-      "sha256": "fd37cb2acf77888d03936b0e025a499983bb75cee28be2cbe61dd272c355ce36"
-    },
-    {
-      "bytes": 994,
-      "path": "dynamic/self/2026-09-24 10-02-07_06eb3497102b.md",
-      "sha256": "2b671d65ca9095e1d1df29ba6ae1c9891094d1833f0f426fa4214b41328b0fbf"
     },
     {
       "bytes": 2192,
@@ -163,11 +193,6 @@
       "sha256": "c13261fbb586d5b9201b9575b3fcc6bf39c4d8f0a480b49c0b2866ffe6cb4641"
     },
     {
-      "bytes": 2708,
-      "path": "dynamic/数字/2026-09-27 03-49-35 2026-09-27 转圈漏的是读取不是记录_bbe3986838f1.md",
-      "sha256": "bb690d9666c614a2e174c3e8fb14e89068354846579a325ef385f284795313d9"
-    },
-    {
       "bytes": 2230,
       "path": "dynamic/未分类/2026-10-01 13-47-38 那张评分表是我自己带的  不碰的地方第一条_298cf0447983.md",
       "sha256": "28a5f69632fbf4c1c86bae9965a64925080c379a2ab147d9075975b1ee2f44d2"
@@ -206,11 +231,6 @@
       "bytes": 2341,
       "path": "dynamic/自省/2026-09-20 14-12-25 三次张口就来与怕练成藏得好看_4bf3289e0f61.md",
       "sha256": "fb63ef3f20a19368518bf4e689e6266cf74dd78e78dd2ea0e309d9ee40ec7841"
-    },
-    {
-      "bytes": 3210,
-      "path": "dynamic/自省/2026-09-27 06-13-48 2026-09-27 门牌漏的不是记录是读取_4b4b7bac5f5d.md",
-      "sha256": "73b82ccf207efb1fd69e7623bc5ae38a3279aaed84f4e5e596b234c775498bb1"
     },
     {
       "bytes": 1786,
@@ -253,11 +273,11 @@
       "sha256": "b3dbbb7f0d87aa1cfb21bcadc5c15bc93287d70345f17677fb4ab1a0972aab55"
     }
   ],
-  "generated_at": "2026-11-25T09:32:08+00:00",
+  "generated_at": "2026-11-27T08:40:58+00:00",
   "path_prefix": "ombre",
   "repo": "esther20001103/ZhiYe-s-store",
   "schema_version": 1,
   "source": "ombre-brain",
   "source_refs_complete": true,
-  "total_bytes": 110295
+  "total_bytes": 116894
 }
